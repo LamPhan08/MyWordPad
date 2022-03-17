@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE6E8A60-2035-42CC-839A-BCF1A50371EE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MyWordPad</RootNamespace>
+    <AssemblyName>MyWordPad</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Editing.cs" />
+    <Compile Include="fAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAbout.Designer.cs">
+      <DependentUpon>fAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDangKy.Designer.cs">
+      <DependentUpon>fDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fDateAndTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDateAndTime.Designer.cs">
+      <DependentUpon>fDateAndTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fFind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fFind.Designer.cs">
+      <DependentUpon>fFind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fHistory.Designer.cs">
+      <DependentUpon>fHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindNextResult.cs" />
+    <Compile Include="FindNextSearch.cs" />
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMyWordPad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMyWordPad.Designer.cs">
+      <DependentUpon>fMyWordPad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fReplace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fReplace.Designer.cs">
+      <DependentUpon>fReplace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUsersManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUsersManager.Designer.cs">
+      <DependentUpon>fUsersManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fAbout.resx">
+      <DependentUpon>fAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDangKy.resx">
+      <DependentUpon>fDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDateAndTime.resx">
+      <DependentUpon>fDateAndTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fFind.resx">
+      <DependentUpon>fFind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fHistory.resx">
+      <DependentUpon>fHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMyWordPad.resx">
+      <DependentUpon>fMyWordPad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fReplace.resx">
+      <DependentUpon>fReplace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUsersManager.resx">
+      <DependentUpon>fUsersManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2021-10-28 151809.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2021-10-28 153150.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2021-10-28 153634.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2021-10-28 153846.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insert_image.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon\key.ico" />
+    <Content Include="Icon\word.ico" />
+    <None Include="Resources\date_10131 %283%29.png" />
+    <None Include="Resources\date_10131_1.png" />
+    <None Include="Resources\photo-photography-image-picture_108525 %281%29.png" />
+    <None Include="Resources\format_font_size_decrease_icon_136597 %281%291.png" />
+    <None Include="Resources\format_font_size_increase_icon_137585 %281%291.png" />
+    <None Include="Resources\mau-xanh-duong-nhat.jpeg" />
+    <None Include="Resources\word.png" />
+    <None Include="Resources\format_font_size_decrease_icon_136597 %281%29.png" />
+    <None Include="Resources\format_font_size_increase_icon_137585 %281%29.png" />
+    <None Include="Resources\redoarrow_rehace_1547 %281%29.png" />
+    <None Include="Resources\undoarrow_undo_1534 %281%29.png" />
+    <None Include="Resources\undoarrow_undo_1534.png" />
+    <None Include="Resources\history_time_clock_1019 %281%29.png" />
+    <None Include="Resources\deleteUser_4951 %281%29.png" />
+    <None Include="Resources\settings_adjust_icon_176446 %281%29.png" />
+    <None Include="Resources\eraser_icon-icons.com_70168 %281%29.png" />
+    <None Include="Resources\update_117510 %281%29.png" />
+    <None Include="Resources\icons8-page-setup-50 %281%29.png" />
+    <None Include="Resources\diskette_save_saveas_1514 %281%29.png" />
+    <None Include="Resources\indent_decrease_icon_207062 %281%29.png" />
+    <None Include="Resources\indent_increase_icon_207061 %281%29.png" />
+    <None Include="Resources\text_color_icon_143684 %281%291.png" />
+    <None Include="Resources\Text_Color_icon-icons.com_55802 %281%29.png" />
+    <None Include="Resources\text_color_icon_143684 %281%29.png" />
+    <None Include="Resources\ic_border_color_128_28170 %281%29.png" />
+    <None Include="Resources\superscript %281%29.png" />
+    <None Include="Resources\subscript %281%29.png" />
+    <None Include="Resources\select-all_icon-icons.com_72567 %282%29.png" />
+    <None Include="Resources\find_icon-icons.com_55319 %282%29.png" />
+    <None Include="Resources\date_10131 %282%29.png" />
+    <None Include="Resources\edit_paste_15696 %283%29.png" />
+    <None Include="Resources\wondicon-ui-free-file_111223 %282%29.png" />
+    <None Include="Resources\openscissors_118379 %281%29.png" />
+    <None Include="Resources\z2.png" />
+    <None Include="Resources\Screenshot 2021-11-18 142053.png" />
+    <None Include="Resources\Screenshot 2021-11-18 1418321.png" />
+    <None Include="Resources\Screenshot 2021-11-18 141832.png" />
+    <None Include="Resources\Screenshot 2021-11-18 140816.png" />
+    <None Include="Resources\Screenshot 2021-11-18 140608.png" />
+    <None Include="Resources\Screenshot 2021-11-18 140412%281%29.png" />
+    <None Include="Resources\Screenshot 2021-11-18 135545.png" />
+    <None Include="Resources\Screenshot 2021-11-18 135432.png" />
+    <None Include="Resources\5. exit.png" />
+    <None Include="Resources\1200px-Information_icon_with_gradient_background.svg.png" />
+    <None Include="Resources\C#.jpg" />
+    <None Include="Resources\C#1.jpg" />
+    <None Include="Resources\c-sharp-c-logo-02F17714BA-seeklogo.jpg" />
+    <None Include="Resources\119.png" />
+    <None Include="Resources\124.png" />
+    <None Include="Resources\123.png" />
+    <None Include="Resources\125.png" />
+    <None Include="Resources\126.png" />
+    <None Include="Resources\163.png" />
+    <None Include="Resources\164.png" />
+    <None Include="Resources\165.png" />
+    <None Include="Resources\166.png" />
+    <None Include="Resources\167.jpg" />
+    <None Include="Resources\1661.png" />
+    <None Include="Resources\168.png" />
+    <None Include="Resources\2983957 %281%29.png" />
+    <None Include="Resources\3844472-hamburger-list-menu-more-navigation_110338 %281%29.png" />
+    <None Include="Resources\about_3697 %281%29.png" />
+    <None Include="Resources\about_3697 %281%291.png" />
+    <None Include="Resources\administrator_102921 %281%29.png" />
+    <None Include="Resources\adduser_4961 %281%29.png" />
+    <None Include="Resources\caculating-symbols_icon-icons.com_70278 %281%29.png" />
+    <Content Include="Resources\cut.ico" />
+    <None Include="Resources\z1.png" />
+    <None Include="Resources\key.ico" />
+    <None Include="Resources\user_yelllow.ico" />
+    <None Include="Resources\increase indent.png" />
+    <None Include="Resources\decrease indent.png" />
+    <None Include="Resources\stock_exit.ico" />
+    <None Include="Resources\resul-mentes-DbwYNr8RPbg-unsplash.jpg" />
+    <None Include="Resources\superscript.png" />
+    <None Include="Resources\subscript.png" />
+    <None Include="Resources\semiicon.png" />
+    <None Include="Resources\download %281%29.png" />
+    <None Include="Resources\favicon-32x32.png" />
+    <None Include="Resources\favicon-16x16.png" />
+    <None Include="Resources\justify-icon-8.jpg" />
+    <None Include="Resources\magnifier_zoom_out.ico" />
+    <None Include="Resources\zoom_out.ico" />
+    <None Include="Resources\word.ico" />
+    <None Include="Resources\magnifier_zoom_in.ico" />
+    <None Include="Resources\text_align_right.ico" />
+    <None Include="Resources\text_align_center.ico" />
+    <None Include="Resources\text_align_left.ico" />
+    <None Include="Resources\Screenshot 2021-10-28 161042.png" />
+    <None Include="Resources\Screenshot 2021-10-28 161014.png" />
+    <None Include="Resources\Screenshot 2021-10-28 160949.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

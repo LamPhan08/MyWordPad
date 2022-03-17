@@ -1,0 +1,225 @@
+D:\Tài liệu\Lập trình trực quan\Đồ án\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+D:\Tài liệu\Lập trình trực quan\Đồ án\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 29-10-2021\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 29-10-2021\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 29-10-2021\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 29-10-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 29-10-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 29-10-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 29-10-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 29-10-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 29-10-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 29-10-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+C:\Users\congd\Desktop\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Homemade_Wordpad.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Homemade_Wordpad.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\07_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\10_11\10_11\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\10_11\10_11\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\10_11\10_11\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\10_11\10_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\10_11\10_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Homemade_Wordpad.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\10_11\10_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\10_11\10_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\10_11\10_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\10_11\10_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\2\10_11\10_11\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\11_11(gửi lại)\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\Edit 13-11-2021\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\obj\Debug\MyWordPad.fFind.resources
+C:\Users\congd\Desktop\nén vào đây\My WordPad\MyWordPad\obj\Debug\MyWordPad.fReplace.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.fFind.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.fReplace.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.fFind.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.fReplace.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\New folder\gửi\3\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fFind.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fReplace.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fAbout.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fDateAndTime.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fAbout.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fDateAndTime.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fFind.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fReplace.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fUsersManager.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\5\5\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fHistory.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fAbout.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fDateAndTime.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fFind.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fHistory.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fReplace.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fUsersManager.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\12_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fDangKy.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fAbout.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fDangKy.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fDateAndTime.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fFind.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fHistory.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fReplace.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fUsersManager.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fAbout.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fDangKy.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fDateAndTime.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fFind.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fHistory.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fReplace.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.fUsersManager.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+D:\Tài liệu\Lập trình trực quan\Đồ án\16_12\16_12\14_12_21\My WordPad\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fAbout.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fDangKy.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fDateAndTime.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fFind.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fHistory.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fLogin.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fMyWordPad.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fReplace.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.fUsersManager.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\congd\Documents\old\old\sv_uit\Các môn học (KTPM 2020)\Năm 2\HK3\4.Lập trình trực quan\2. mới\4. Đồ án cuối kỳ\new\18_12\My WordPad\MyWordPad\obj\Debug\MyWordPad.pdb
